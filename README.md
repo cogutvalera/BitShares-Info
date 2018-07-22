@@ -25,3 +25,5 @@ ________________________________________________________________________________
 # Discussions
 
 1. https://github.com/bitshares/bitshares-core/pull/1120
+
+2. https://github.com/bitshares/bitshares-core/pull/952
