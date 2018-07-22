@@ -20,3 +20,8 @@
 
 10. https://github.com/bitshares/bitshares-core/issues/780 ???
 
+______________________________________________________________________________________________________________________
+
+# Discussions
+
+1. https://github.com/bitshares/bitshares-core/pull/1120
