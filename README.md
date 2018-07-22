@@ -22,7 +22,9 @@
 
 ______________________________________________________________________________________________________________________
 
-# Discussions    https://github.com/bitshares/bitshares-core/pulls?q=is%3Apr+milestone%3A%22201807+-+Next+Non-Consensus-Changing+Release%22+is%3Aopen
+# Discussions
+
+https://github.com/bitshares/bitshares-core/pulls?q=is%3Apr+milestone%3A%22201807+-+Next+Non-Consensus-Changing+Release%22+is%3Aopen
 
 1. https://github.com/bitshares/bitshares-core/pull/1120
 
