@@ -29,3 +29,5 @@ https://github.com/bitshares/bitshares-core/pulls?q=is%3Apr+milestone%3A%2220180
 1. https://github.com/bitshares/bitshares-core/pull/1120
 
 2. https://github.com/bitshares/bitshares-core/pull/952
+
+3. https://github.com/bitshares/bitshares-core/issues/1172
