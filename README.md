@@ -18,7 +18,7 @@
 
 9. https://github.com/bitshares/bitshares-core/issues/597 ???
 
-10. https://github.com/bitshares/bitshares-core/issues/780 ???
+10. https://github.com/bitshares/bitshares-core/issues/780 / https://github.com/bitshares/bitshares-core/pull/1174
 
 ______________________________________________________________________________________________________________________
 
