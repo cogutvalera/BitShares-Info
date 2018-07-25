@@ -46,7 +46,8 @@ ________________________________________________________________________________
 
 ## Steps to bump FC Library
 
-```cd bitshares-core
+```
+cd bitshares-core
 cd libraries
 rm -rf fc
 git submodule update --init --recursive
@@ -56,6 +57,6 @@ git checkout origin/master
 git submodule update --init --recursive
 cd ..
 git add fc
-git commit```
-
+git commit
+```
 ______________________________________________________________________________________________________________________
