@@ -41,3 +41,21 @@ ________________________________________________________________________________
 1. https://github.com/bitshares/bsips/pull/84
 
 ______________________________________________________________________________________________________________________
+
+# NOTES
+
+## Steps to bump FC Library
+
+cd bitshares-core
+cd libraries
+rm -rf fc
+git submodule update --init --recursive
+cd fc
+git fetch origin
+git checkout origin/master
+git submodule update --init --recursive
+cd ..
+git add fc
+git commit
+
+______________________________________________________________________________________________________________________
