@@ -1,4 +1,4 @@
-# My BitShares Issues
+# My BitShares Core Issues
 
 1. https://github.com/bitshares/bitshares-core/issues/809 / https://github.com/bitshares/bitshares-core/pull/1102 / https://github.com/bitshares/bitshares-fc/pull/56 (2 hours estimation)
 
@@ -59,4 +59,11 @@ cd ..
 git add fc
 git commit
 ```
+______________________________________________________________________________________________________________________
+
+# BitShares UI issues
+
+1. https://github.com/bitshares/bitshares-ui/issues/1729
+
+
 ______________________________________________________________________________________________________________________
