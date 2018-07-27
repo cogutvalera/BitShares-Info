@@ -22,7 +22,7 @@
 
 11. https://github.com/bitshares/bitshares-core/issues/1192
 
-12. https://github.com/bitshares/bitshares-core/issues/1109
+12. https://github.com/bitshares/bitshares-core/issues/1109 / https://github.com/bitshares/bitshares-core/pull/1195
 
 13. https://github.com/bitshares/bitshares-core/issues/1193
 
