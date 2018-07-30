@@ -24,7 +24,7 @@
 
 12. https://github.com/bitshares/bitshares-core/issues/1109 / https://github.com/bitshares/bitshares-core/pull/1195 (2 hours estimation)
 
-13. https://github.com/bitshares/bitshares-core/issues/1193 (2-3 hours estimation)
+13. https://github.com/bitshares/bitshares-core/issues/1193 / https://github.com/bitshares/bitshares-core/pull/1207 (2-3 hours estimation)
 
 14. https://github.com/bitshares/bitshares-core/issues/1205 (closed, NOT ISSUE)
 
