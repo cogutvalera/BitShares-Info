@@ -81,3 +81,36 @@ ________________________________________________________________________________
 1. ./tests/all_tests --run_test=logging_tests/log_reboot --log_level=message
 
 ______________________________________________________________________________________________________________________
+
+# Private TestNet How To:
+
+http://docs.bitshares.org/testnet/private-testnet.html
+
+`$ witness_node --create-genesis-json=my-genesis.json
+witness_node --data-dir=data   # to use the default genesis, or
+witness_node --data-dir=data --genesis-json=my-genesis.json   # your own genesis block
+
+[Testnet-Home]/data/config.ini:
+rpc-endpoint = 127.0.0.1:8090
+genesis-json = my-genesis.json
+enable-stale-production = true
+# ID of witness controlled by this node (e.g. "1.6.5", quotes are required, may specify multiple times)
+witness-id = "1.6.1"
+witness-id = "1.6.2"
+witness-id = "1.6.3"
+witness-id = "1.6.4"
+witness-id = "1.6.5"
+witness-id = "1.6.6"
+witness-id = "1.6.7"
+witness-id = "1.6.8"
+witness-id = "1.6.9"
+witness-id = "1.6.10"
+witness-id = "1.6.11"
+# Tuple of [PublicKey, WIF private key] (may specify multiple times)
+private-key = ["BTS6MRyA...T5GDW5CV","5KQwrPb...tP79zkvFD3"]
+seed-nodes = []
+
+witness_node --data-dir=data
+
+cli_wallet --wallet-file=my-wallet.json --chain-id=8b7bd36a146a03d0e5d0a971e286098f41230b209d96f92465cd62bd64294824 --server-rpc-endpoint=ws://127.0.0.1:8090`
+______________________________________________________________________________________________________________________
