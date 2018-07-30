@@ -26,6 +26,8 @@
 
 13. https://github.com/bitshares/bitshares-core/issues/1193
 
+14. https://github.com/bitshares/bitshares-core/issues/1205
+
 ______________________________________________________________________________________________________________________
 
 # Discussions
