@@ -86,7 +86,8 @@ ________________________________________________________________________________
 
 http://docs.bitshares.org/testnet/private-testnet.html
 
-`$ witness_node --create-genesis-json=my-genesis.json
+```
+$ witness_node --create-genesis-json=my-genesis.json
 witness_node --data-dir=data   # to use the default genesis, or
 witness_node --data-dir=data --genesis-json=my-genesis.json   # your own genesis block
 
@@ -112,5 +113,6 @@ seed-nodes = []
 
 witness_node --data-dir=data
 
-cli_wallet --wallet-file=my-wallet.json --chain-id=8b7bd36a146a03d0e5d0a971e286098f41230b209d96f92465cd62bd64294824 --server-rpc-endpoint=ws://127.0.0.1:8090`
+cli_wallet --wallet-file=my-wallet.json --chain-id=8b7bd36a146a03d0e5d0a971e286098f41230b209d96f92465cd62bd64294824 --server-rpc-endpoint=ws://127.0.0.1:8090
+```
 ______________________________________________________________________________________________________________________
