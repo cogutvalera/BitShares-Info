@@ -28,7 +28,7 @@
 
 14. https://github.com/bitshares/bitshares-core/issues/1205 (closed, NOT ISSUE)
 
-15. https://github.com/bitshares/bitshares-core/issues/1216
+15. https://github.com/bitshares/bitshares-core/issues/1216 (4 hours estimation)
 
 ______________________________________________________________________________________________________________________
 
