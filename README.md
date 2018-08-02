@@ -30,6 +30,10 @@
 
 15. https://github.com/bitshares/bitshares-core/issues/1216 / https://github.com/bitshares/bitshares-core/pull/1218 / https://github.com/bitshares/bitshares-fc/pull/71 (4 hours estimation)
 
+16. https://github.com/bitshares/bitshares-core/issues/1171
+
+17. https://github.com/bitshares/bitshares-core/issues/1192
+
 ______________________________________________________________________________________________________________________
 
 # Discussions
@@ -119,25 +123,4 @@ witness_node --data-dir=data
 
 cli_wallet --wallet-file=my-wallet.json --chain-id=8b7bd36a146a03d0e5d0a971e286098f41230b209d96f92465cd62bd64294824 --server-rpc-endpoint=ws://127.0.0.1:8090
 ```
-______________________________________________________________________________________________________________________
-
-1.  https://github.com/bitshares/bitshares-core/issues/1143
-2.  https://github.com/bitshares/bitshares-core/issues/1149
-3.  https://github.com/bitshares/bitshares-core/issues/1157
-4.  https://github.com/bitshares/bitshares-core/issues/1158
-5.  https://github.com/bitshares/bitshares-core/issues/1162
-6.  https://github.com/bitshares/bitshares-core/issues/1171
-7.  https://github.com/bitshares/bitshares-core/issues/1172
-8.  https://github.com/bitshares/bitshares-core/issues/1182
-9.  https://github.com/bitshares/bitshares-core/issues/1183
-10. https://github.com/bitshares/bitshares-core/issues/1184
-11. https://github.com/bitshares/bitshares-core/issues/1186
-12. https://github.com/bitshares/bitshares-core/issues/1192
-13. https://github.com/bitshares/bitshares-core/issues/1196
-14. https://github.com/bitshares/bitshares-core/issues/1198
-15. https://github.com/bitshares/bitshares-core/issues/1204
-16. https://github.com/bitshares/bitshares-core/issues/1206
-17. https://github.com/bitshares/bitshares-core/issues/1208
-18. https://github.com/bitshares/bitshares-core/issues/1209
-19. https://github.com/bitshares/bitshares-core/issues/1210
 ______________________________________________________________________________________________________________________
