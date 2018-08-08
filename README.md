@@ -136,13 +136,19 @@ Intel® Core™ i7-8700 Hexa-Core Coffee Lake
 2 x 512 gb NVMe SSDs in RAID
 64GB ram
 
-https://bitsharestalk.org/index.php?topic=24046.msg305206#msg305206
-https://bitsharestalk.org/index.php/topic,24005.0.html
-https://bitsharestalk.org/index.php/topic,23925.0.html
+2. https://bitsharestalk.org/index.php?topic=24046.msg305206#msg305206
+3. https://bitsharestalk.org/index.php/topic,24005.0.html
+4. https://bitsharestalk.org/index.php/topic,23925.0.html
 ______________________________________________________________________________________________________________________
 
 # Forum Discussions
 
 1. http://bitsharestalk.org/index.php?topic=26906.0
 2. http://bitsharestalk.org/index.php?topic=26907.0
+______________________________________________________________________________________________________________________
+
+# Others Info
+
+1. https://learn.javascript.ru/write-unmain-code
+
 ______________________________________________________________________________________________________________________
