@@ -140,3 +140,9 @@ https://bitsharestalk.org/index.php?topic=24046.msg305206#msg305206
 https://bitsharestalk.org/index.php/topic,24005.0.html
 https://bitsharestalk.org/index.php/topic,23925.0.html
 ______________________________________________________________________________________________________________________
+
+# Forum Discussions
+
+1. http://bitsharestalk.org/index.php?topic=26906.0
+2. http://bitsharestalk.org/index.php?topic=26907.0
+______________________________________________________________________________________________________________________
