@@ -150,5 +150,6 @@ ________________________________________________________________________________
 # Others Info
 
 1. https://learn.javascript.ru/write-unmain-code
+2. https://forum.unity.com/threads/facebook-unity-settings-has-already-been-imported-error.467925/
 
 ______________________________________________________________________________________________________________________
