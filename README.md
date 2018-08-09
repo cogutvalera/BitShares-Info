@@ -153,5 +153,10 @@ ________________________________________________________________________________
 
 1. https://learn.javascript.ru/write-unmain-code
 2. https://forum.unity.com/threads/facebook-unity-settings-has-already-been-imported-error.467925/
+3. https://www.investopedia.com
+4. https://steemit.com/bitshares/@malacandrahyoi/stealth-on-bitshares-development-phase-ii
+5. https://medium.com/@bytemaster/proposal-for-eos-resource-renting-rent-distribution-9afe8fb3883a
+6. https://www.investopedia.com/terms/c/corporategovernance.asp
+7. 
 
 ______________________________________________________________________________________________________________________
