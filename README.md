@@ -158,5 +158,6 @@ ________________________________________________________________________________
 5. https://medium.com/@bytemaster/proposal-for-eos-resource-renting-rent-distribution-9afe8fb3883a
 6. https://www.investopedia.com/terms/c/corporategovernance.asp
 7. https://steemit.com/bitshares/@blockchained/sostoyanie-seti-bitshares-7-avgusta-2018
+8. https://steemit.com/blockchain/@blockchained/tobi-linas-o-bookiepro-pervoi-v-mire-decentralizovannoi-birzhe-sportivnykh-stavok
 
 ______________________________________________________________________________________________________________________
