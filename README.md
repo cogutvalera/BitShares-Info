@@ -159,5 +159,6 @@ ________________________________________________________________________________
 6. https://www.investopedia.com/terms/c/corporategovernance.asp
 7. https://steemit.com/bitshares/@blockchained/sostoyanie-seti-bitshares-7-avgusta-2018
 8. https://steemit.com/blockchain/@blockchained/tobi-linas-o-bookiepro-pervoi-v-mire-decentralizovannoi-birzhe-sportivnykh-stavok
+9. https://www.youtube.com/watch?v=XQ916ga2uqg
 
 ______________________________________________________________________________________________________________________
