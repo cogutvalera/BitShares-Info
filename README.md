@@ -34,6 +34,10 @@
 
 17. https://github.com/bitshares/bitshares-core/issues/1192 / https://github.com/bitshares/bitshares-core/pull/1243 (10 hours estimation)
 
+18. https://github.com/bitshares/bitshares-core/issues/726
+
+19. https://github.com/bitshares/bitshares-core/issues/774
+
 ______________________________________________________________________________________________________________________
 
 # Discussions
