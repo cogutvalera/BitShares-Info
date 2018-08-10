@@ -52,6 +52,8 @@ https://github.com/bitshares/bitshares-core/pulls?q=is%3Apr+milestone%3A%2220180
 
 6. https://github.com/bitshares/bitshares-core/issues/1237
 
+7. https://github.com/bitshares/bitshares-core/issues/1245
+
 ______________________________________________________________________________________________________________________
 
 # BSIPs
