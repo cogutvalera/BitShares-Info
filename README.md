@@ -20,7 +20,7 @@
 
 10. https://github.com/bitshares/bitshares-core/issues/780 / https://github.com/bitshares/bitshares-core/pull/1174 (5 hours estimation)
 
-11. https://github.com/bitshares/bitshares-core/issues/1192
+11. https://github.com/bitshares/bitshares-core/issues/774
 
 12. https://github.com/bitshares/bitshares-core/issues/1109 / https://github.com/bitshares/bitshares-core/pull/1195 (3 hours estimation)
 
@@ -35,8 +35,6 @@
 17. https://github.com/bitshares/bitshares-core/issues/1192 / https://github.com/bitshares/bitshares-core/pull/1243 (10 hours estimation)
 
 18. https://github.com/bitshares/bitshares-core/issues/726
-
-19. https://github.com/bitshares/bitshares-core/issues/774
 
 ______________________________________________________________________________________________________________________
 
