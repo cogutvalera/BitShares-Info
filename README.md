@@ -43,21 +43,14 @@ ________________________________________________________________________________
 https://github.com/bitshares/bitshares-core/pulls?q=is%3Apr+milestone%3A%22201807+-+Next+Non-Consensus-Changing+Release%22+is%3Aopen
 
 1. https://github.com/bitshares/bitshares-core/pull/1120
-
 2. https://github.com/bitshares/bitshares-core/pull/952
-
 3. https://github.com/bitshares/bitshares-core/issues/1172
-
 4. https://github.com/bitshares/bitshares-core/issues/1173
-
 5. https://github.com/bitshares/bitshares-core/issues/1182
-
 6. https://github.com/bitshares/bitshares-core/issues/1237
-
 7. https://github.com/bitshares/bitshares-core/issues/1245
-
 8. https://github.com/bitshares/bitshares-core/pull/1250
-
+9. https://github.com/bitshares/bitshares-core/pull/406
 ______________________________________________________________________________________________________________________
 
 # BSIPs
