@@ -22,7 +22,7 @@
 
 11. https://github.com/bitshares/bitshares-core/issues/774
 
-12. https://github.com/bitshares/bitshares-core/issues/1109 / https://github.com/bitshares/bitshares-core/pull/1195 (3 hours estimation)
+12. https://github.com/bitshares/bitshares-core/issues/1109 / https://github.com/bitshares/bitshares-core/pull/1195 (3 hours estimation, closed, merged)
 
 13. https://github.com/bitshares/bitshares-core/issues/1193 / https://github.com/bitshares/bitshares-core/pull/1207 / https://github.com/bitshares/bitshares-fc/pull/68 / https://github.com/bitshares/bitshares-fc/pull/70 / https://github.com/bitshares/bitshares-core/pull/1232 (7 hours estimation, NOT CLOSED, compensated 30-31 weeks)
 
