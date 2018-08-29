@@ -32,7 +32,7 @@
 
 16. https://github.com/bitshares/bitshares-core/issues/1171
 
-17. https://github.com/bitshares/bitshares-core/issues/1192 / https://github.com/bitshares/bitshares-core/pull/1243 (10 hours estimation)
+17. https://github.com/bitshares/bitshares-core/issues/1192 / https://github.com/bitshares/bitshares-core/pull/1243 (10 hours estimation, merged)
 
 18. https://github.com/bitshares/bitshares-core/issues/726
 
