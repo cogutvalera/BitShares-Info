@@ -54,11 +54,9 @@ ________________________________________________________________________________
 
 8. https://github.com/bitshares/bitshares-core/issues/1288
 
-9. https://github.com/bitshares/bitshares-core/issues/1303 (10 hours estimation, )
+9. https://github.com/bitshares/bitshares-core/issues/964
 
-10. https://github.com/bitshares/bitshares-core/issues/964
-
-11. https://github.com/bitshares/bitshares-core/issues/1233
+10. https://github.com/bitshares/bitshares-core/issues/1233
 
 ______________________________________________________________________________________________________________________
 
