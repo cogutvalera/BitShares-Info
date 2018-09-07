@@ -35,28 +35,24 @@ ________________________________________________________________________________
 
 6. https://github.com/bitshares/bitshares-core/issues/777 (in progress)
 
+7. 2. https://github.com/bitshares/bitshares-core/issues/946 (in progress)
+
 ______________________________________________________________________________________________________________________
 # My BitShares Core Issues
 
 1. https://github.com/bitshares/bitshares-core/issues/1088 ???
 
-2. https://github.com/bitshares/bitshares-core/issues/946 ???
+2. https://github.com/bitshares/bitshares-core/issues/774
 
-3. https://github.com/bitshares/bitshares-core/issues/777 ???
+3. https://github.com/bitshares/bitshares-core/issues/1205 (closed, NOT ISSUE)
 
-4. https://github.com/bitshares/bitshares-core/issues/774
+4. https://github.com/bitshares/bitshares-core/issues/726
 
-5. https://github.com/bitshares/bitshares-core/issues/1205 (closed, NOT ISSUE)
+5. https://github.com/bitshares/bitshares-core/issues/1288
 
-6. https://github.com/bitshares/bitshares-core/issues/1171
+6. https://github.com/bitshares/bitshares-core/issues/964
 
-7. https://github.com/bitshares/bitshares-core/issues/726
-
-8. https://github.com/bitshares/bitshares-core/issues/1288
-
-9. https://github.com/bitshares/bitshares-core/issues/964
-
-10. https://github.com/bitshares/bitshares-core/issues/1233
+7. https://github.com/bitshares/bitshares-core/issues/1233
 
 ______________________________________________________________________________________________________________________
 
