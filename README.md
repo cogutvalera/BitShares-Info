@@ -35,7 +35,7 @@ ________________________________________________________________________________
 
 6. https://github.com/bitshares/bitshares-core/issues/777 (in progress)
 
-7. 2. https://github.com/bitshares/bitshares-core/issues/946 (in progress, 2 hours estimation)
+7. 2. https://github.com/bitshares/bitshares-core/issues/946 / https://github.com/bitshares/bitshares-core/pull/1311 (in progress, 2 hours estimation)
 
 ______________________________________________________________________________________________________________________
 # My BitShares Core Issues
