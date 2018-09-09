@@ -193,3 +193,16 @@ ________________________________________________________________________________
 in general I hope you will review the Project Backlog to identify Unassigned - Bugs then Unassigned - Features & Enhancements (rather than New - Awaiting Core Team Evaluation. As a Team, we are working to prioritize the Issues within each bucket (column heading). We also use the 4 Priority Labels to help as well. If you are unable to find an Unassigned Issue, please look to the New Issues and reach out to me. I can work with the Core Team to review, prioritize and estimate Issues which Community Members have interest in working on.
 
 ______________________________________________________________________________________________________________________
+
+# TODO
+
+1. C++
+2. Design Patterns
+3. Economics
+4. Graphene
+5. BitShares-Core
+6. Tanenbaum Architecture
+7. Tanenbaum Networks
+8. Tanenbaum Operating Systems
+
+______________________________________________________________________________________________________________________
