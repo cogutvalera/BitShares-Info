@@ -64,7 +64,13 @@ ________________________________________________________________________________
 8. https://github.com/bitshares/bitshares-core/issues/1289
 ### Change replay percentage to total block size processed
 
-9. https://github.com/bitshares/bitshares-core/pull/1232 
+9. https://github.com/bitshares/bitshares-core/issues/1269
+### Change call_order_update_operation to return order_id
+
+10. https://github.com/bitshares/bitshares-core/issues/985
+### Log console output during replay to file
+
+11. https://github.com/bitshares/bitshares-core/pull/1232 
 (HAVE TO FIND ANOTHER SOLUTION to quit cli_wallet cleanly after CTRL-C was captured)
 
 ______________________________________________________________________________________________________________________
