@@ -91,6 +91,9 @@ ________________________________________________________________________________
 7. https://github.com/bitshares/bitshares-core/issues/1233
 ### Add Matrix Build Support to Travis-CI Integration
 
+8. https://github.com/bitshares/bitshares-core/issues/1110
+### Avoid calling `exit` from within a library
+
 ______________________________________________________________________________________________________________________
 
 # Discussions
