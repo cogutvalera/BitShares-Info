@@ -276,3 +276,26 @@ ________________________________________________________________________________
 8. Tanenbaum Operating Systems
 
 ______________________________________________________________________________________________________________________
+
+# TRAVIS-CI
+
+```
+1. cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_FLAGS=--coverage -DCMAKE_CXX_FLAGS=--coverage -DBoost_USE_STATIC_LIBS=OFF -DCMAKE_CXX_OUTPUT_EXTENSION_REPLACE=ON .
+2. which build-wrapper-linux-x86-64 && build-wrapper-linux-x86-64 --out-dir bw-output make -j 2 cli_wallet witness_node chain_test cli_test || make -j 2 cli_wallet witness_node chain_test cli_test
+```
+
+______________________________________________________________________________________________________________________
+
+# README
+
+```
+1. sudo apt-get update
+2. sudo apt-get install autoconf cmake make automake libtool git libboost-all-dev libssl-dev g++ libcurl4-openssl-dev
+3. git clone https://github.com/bitshares/bitshares-core.git
+4. cd bitshares-core
+4. git checkout master # may substitute "master" with current release tag
+5. git submodule update --init --recursive
+6. cmake -DCMAKE_BUILD_TYPE=RelWithDebInfo .
+7. make
+```
+______________________________________________________________________________________________________________________
