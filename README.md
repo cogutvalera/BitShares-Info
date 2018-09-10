@@ -27,15 +27,18 @@ ________________________________________________________________________________
 
 2. https://github.com/bitshares/bitshares-core/issues/1109 / https://github.com/bitshares/bitshares-core/pull/1195 (3 hours estimation, closed, merged)
 
-3. https://github.com/bitshares/bitshares-core/issues/780 / https://github.com/bitshares/bitshares-core/pull/1174 (5 hours estimation, review required)
+______________________________________________________________________________________________________________________
+# My BitShares Core Issues (34-35 weeks progress)
 
-4. https://github.com/bitshares/bitshares-core/issues/1171 (in progress)
+1. https://github.com/bitshares/bitshares-core/issues/780 / https://github.com/bitshares/bitshares-core/pull/1174 (5 hours estimation, review required)
 
-5. https://github.com/bitshares/bitshares-core/issues/1303 (10 hours estimation, in progress)
+2. https://github.com/bitshares/bitshares-core/issues/1171 (in progress)
 
-6. https://github.com/bitshares/bitshares-core/issues/777 (in progress)
+3. https://github.com/bitshares/bitshares-core/issues/1303 (10 hours estimation, in progress)
 
-7. https://github.com/bitshares/bitshares-core/issues/946 / https://github.com/bitshares/bitshares-core/pull/1311 (2 hours estimation)
+4. https://github.com/bitshares/bitshares-core/issues/777 (in progress)
+
+5. https://github.com/bitshares/bitshares-core/issues/946 / https://github.com/bitshares/bitshares-core/pull/1311 (2 hours estimation, review required)
 
 ______________________________________________________________________________________________________________________
 # My BitShares Core Issues
