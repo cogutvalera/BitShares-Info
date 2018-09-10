@@ -259,13 +259,14 @@ ________________________________________________________________________________
 1. https://gitlab.com/dmantis/bitshares-assistant
 
 ______________________________________________________________________________________________________________________
-
+```
 in general I hope you will review the Project Backlog to identify Unassigned - Bugs then Unassigned - Features & Enhancements (rather than New - Awaiting Core Team Evaluation. As a Team, we are working to prioritize the Issues within each bucket (column heading). We also use the 4 Priority Labels to help as well. If you are unable to find an Unassigned Issue, please look to the New Issues and reach out to me. I can work with the Core Team to review, prioritize and estimate Issues which Community Members have interest in working on.
-
+```
 ______________________________________________________________________________________________________________________
 
 # TODO
 
+```
 1. C++
 2. Design Patterns
 3. Economics
@@ -274,14 +275,15 @@ ________________________________________________________________________________
 6. Tanenbaum Architecture
 7. Tanenbaum Networks
 8. Tanenbaum Operating Systems
-
+```
 ______________________________________________________________________________________________________________________
 
 # TRAVIS-CI
 
 ```
-1. cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_FLAGS=--coverage -DCMAKE_CXX_FLAGS=--coverage -DBoost_USE_STATIC_LIBS=OFF -DCMAKE_CXX_OUTPUT_EXTENSION_REPLACE=ON .
-2. which build-wrapper-linux-x86-64 && build-wrapper-linux-x86-64 --out-dir bw-output make -j 2 cli_wallet witness_node chain_test cli_test || make -j 2 cli_wallet witness_node chain_test cli_test
+cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_FLAGS=--coverage -DCMAKE_CXX_FLAGS=--coverage -DBoost_USE_STATIC_LIBS=OFF -DCMAKE_CXX_OUTPUT_EXTENSION_REPLACE=ON .
+
+which build-wrapper-linux-x86-64 && build-wrapper-linux-x86-64 --out-dir bw-output make -j 2 cli_wallet witness_node chain_test cli_test || make -j 2 cli_wallet witness_node chain_test cli_test
 ```
 
 ______________________________________________________________________________________________________________________
@@ -289,13 +291,33 @@ ________________________________________________________________________________
 # README
 
 ```
-1. sudo apt-get update
-2. sudo apt-get install autoconf cmake make automake libtool git libboost-all-dev libssl-dev g++ libcurl4-openssl-dev
-3. git clone https://github.com/bitshares/bitshares-core.git
-4. cd bitshares-core
-4. git checkout master # may substitute "master" with current release tag
-5. git submodule update --init --recursive
-6. cmake -DCMAKE_BUILD_TYPE=RelWithDebInfo .
-7. make
+sudo apt-get update
+sudo apt-get install autoconf cmake make automake libtool git libboost-all-dev libssl-dev g++ libcurl4-openssl-dev
+git clone https://github.com/bitshares/bitshares-core.git
+cd bitshares-core
+git checkout master # may substitute "master" with current release tag
+git submodule update --init --recursive
+cmake -DCMAKE_BUILD_TYPE=RelWithDebInfo .
+make
 ```
+______________________________________________________________________________________________________________________
+
+# Upgrade Script (prepend to the Build Script above if you built a prior release):
+
+```
+git remote set-url origin https://github.com/bitshares/bitshares-core.git
+git checkout master
+git remote set-head origin --auto
+git pull
+git submodule update --init --recursive # this command may fail
+git submodule sync --recursive
+git submodule update --init --recursive
+```
+______________________________________________________________________________________________________________________
+
+# REVIEW
+
+1. https://github.com/bitshares/bitshares-core/issues/1292 / https://github.com/bitshares/bitshares-core/pull/1305
+### cli_test doesn't compile on Windows due to using 'sys/socket.h'
+
 ______________________________________________________________________________________________________________________
