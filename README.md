@@ -44,7 +44,9 @@ ________________________________________________________________________________
 
 7. https://github.com/bitshares/bitshares-core/issues/1314
 
-8. https://github.com/bitshares/bitshares-core/pull/1232 
+8. https://github.com/bitshares/bitshares-core/issues/1289
+
+9. https://github.com/bitshares/bitshares-core/pull/1232 
 (HAVE TO FIND ANOTHER SOLUTION to quit cli_wallet cleanly after CTRL-C was captured)
 
 ______________________________________________________________________________________________________________________
