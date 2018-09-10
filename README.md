@@ -28,7 +28,7 @@ ________________________________________________________________________________
 2. https://github.com/bitshares/bitshares-core/issues/1109 / https://github.com/bitshares/bitshares-core/pull/1195 (3 hours estimation, closed, merged)
 
 ______________________________________________________________________________________________________________________
-# My BitShares Core Issues (34-35 weeks progress)
+# My BitShares Core Issues (36-37 weeks progress)
 
 1. https://github.com/bitshares/bitshares-core/issues/780 / https://github.com/bitshares/bitshares-core/pull/1174 (5 hours estimation, review required)
 
