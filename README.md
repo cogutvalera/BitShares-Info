@@ -40,6 +40,8 @@ ________________________________________________________________________________
 
 5. https://github.com/bitshares/bitshares-core/issues/946 / https://github.com/bitshares/bitshares-core/pull/1311 (2 hours estimation, review required)
 
+6. https://github.com/bitshares/bitshares-core/issues/1313
+
 ______________________________________________________________________________________________________________________
 # My BitShares Core Issues
 
