@@ -58,7 +58,7 @@ ________________________________________________________________________________
 6. https://github.com/bitshares/bitshares-core/issues/1313
 ### About skip_fork_db flag
 
-7. https://github.com/bitshares/bitshares-core/issues/1314 (1 hour estimation)
+7. https://github.com/bitshares/bitshares-core/issues/1314 (2 hours estimation)
 ### Terminate block production loop when shutting down witness plugin
 
 8. https://github.com/bitshares/bitshares-core/issues/1289 (2 hours estimation)
