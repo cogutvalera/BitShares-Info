@@ -142,6 +142,9 @@ https://github.com/bitshares/bitshares-core/pulls?q=is%3Apr+milestone%3A%2220180
 12. https://github.com/bitshares/bitshares-core/issues/363
 ### Implement Atomic Swap / Side Chain between BTC (Bitcoin) and BTS (Bitshares tokens)
 
+13. https://github.com/bitshares/bitshares-core/issues/1318
+### Define coding style guidelines
+
 ______________________________________________________________________________________________________________________
 
 # BSIPs
