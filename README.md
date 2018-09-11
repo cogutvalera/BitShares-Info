@@ -58,16 +58,16 @@ ________________________________________________________________________________
 6. https://github.com/bitshares/bitshares-core/issues/1313
 ### About skip_fork_db flag
 
-7. https://github.com/bitshares/bitshares-core/issues/1314
+7. https://github.com/bitshares/bitshares-core/issues/1314 (1 hour estimation)
 ### Terminate block production loop when shutting down witness plugin
 
-8. https://github.com/bitshares/bitshares-core/issues/1289
+8. https://github.com/bitshares/bitshares-core/issues/1289 (2 hours estimation)
 ### Change replay percentage to total block size processed
 
-9. https://github.com/bitshares/bitshares-core/issues/1269
+9. https://github.com/bitshares/bitshares-core/issues/1269 (4 hours estimation)
 ### Change call_order_update_operation to return order_id
 
-10. https://github.com/bitshares/bitshares-core/issues/985
+10. https://github.com/bitshares/bitshares-core/issues/985 (2 hours estimation)
 ### Log console output during replay to file
 
 11. https://github.com/bitshares/bitshares-core/pull/1232 
