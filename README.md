@@ -43,7 +43,7 @@ ________________________________________________________________________________
 1. https://github.com/bitshares/bitshares-core/issues/780 / https://github.com/bitshares/bitshares-core/pull/1174 (5 hours estimation, review required)
 ### API documentation
 
-2. https://github.com/bitshares/bitshares-core/issues/1171 (in progress)
+2. https://github.com/bitshares/bitshares-core/issues/1171 (starting from 2 hours estimation for researching, in progress)
 ### Safer way to handle unlock command of cli_wallet
 
 3. https://github.com/bitshares/bitshares-core/issues/1303 (10 hours estimation, in progress)
