@@ -29,4 +29,5 @@ Ryan R. Fox (BitShares Core), [14.09.18 15:22]
 
 Peter Conrad, [14.09.18 15:26]
 Incoming new transactions are pushed into the database. Same validation steps are applied as for those transactions that arrive in a new block.
+TX's are kept in pool until their expiration date, for dupe checking.
 ```
