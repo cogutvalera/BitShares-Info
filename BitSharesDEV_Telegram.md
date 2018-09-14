@@ -26,4 +26,7 @@ Abit More, [14.09.18 15:17]
 
 Ryan R. Fox (BitShares Core), [14.09.18 15:22]
 3: trying to understand when a broadcast TX received from P2P get validated. My assumption: TX rcvd, check sig, check operations, validated, add to mempool, await block containing TX, remove from mempool after LIB.
+
+Peter Conrad, [14.09.18 15:26]
+Incoming new transactions are pushed into the database. Same validation steps are applied as for those transactions that arrive in a new block.
 ```
