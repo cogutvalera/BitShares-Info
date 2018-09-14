@@ -34,4 +34,11 @@ TX's are kept in pool until their expiration date, for dupe checking.
 Ryan R. Fox (BitShares Core), [14.09.18 15:28]
 [In reply to Peter Conrad]
 Good point. LIB as I described would allow replay same TX.
+
+Abit More, [14.09.18 15:58]
+[In reply to Ryan R. Fox (BitShares Core)]
+dup check is not related to LIB
+
+Abit More, [14.09.18 15:59]
+effectively there are two pools. one for dup check, the other for propagating among peers
 ```
