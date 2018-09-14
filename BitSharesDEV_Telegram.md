@@ -41,4 +41,7 @@ dup check is not related to LIB
 
 Abit More, [14.09.18 15:59]
 effectively there are two pools. one for dup check, the other for propagating among peers
+
+Abit More, [14.09.18 16:02]
+actually, one pool in database for dup check, one pool in p2p layer for propagating. there is a fork db and a pending queue in database, to assist the dup check and chain reoganization and block production.
 ```
