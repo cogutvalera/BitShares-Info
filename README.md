@@ -61,7 +61,7 @@ ________________________________________________________________________________
 7. https://github.com/bitshares/bitshares-core/issues/1314 / https://github.com/bitshares/bitshares-core/pull/1332 (2 hours estimation)
 ### Terminate block production loop when shutting down witness plugin
 
-8. https://github.com/bitshares/bitshares-core/issues/1289 (2 hours estimation)
+8. https://github.com/bitshares/bitshares-core/issues/1289 / https://github.com/bitshares/bitshares-core/pull/1335 (2 hours estimation)
 ### Change replay percentage to total block size processed
 
 9. https://github.com/bitshares/bitshares-core/issues/1269 (4 hours estimation)
