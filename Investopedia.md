@@ -19,4 +19,5 @@
 17. Margin Call - https://www.investopedia.com/terms/m/margincall.asp
 18. Stock - https://www.investopedia.com/terms/s/stock.asp
 19. Market - https://www.investopedia.com/terms/m/market.asp
-20. 
+20. Floor - https://www.investopedia.com/terms/f/floor.asp
+21. 
