@@ -13,4 +13,6 @@
 11. Book - https://www.investopedia.com/terms/b/book.asp
 12. Order - https://www.investopedia.com/terms/o/order.asp
 13. Understanding Order Execution - https://www.investopedia.com/articles/01/022801.asp
-14. 
+14. Settlement Price - https://www.investopedia.com/terms/s/settlementprice.asp
+15. Call Price - https://www.investopedia.com/terms/c/callprice.asp
+16.
