@@ -20,4 +20,6 @@
 18. Stock - https://www.investopedia.com/terms/s/stock.asp
 19. Market - https://www.investopedia.com/terms/m/market.asp
 20. Floor - https://www.investopedia.com/terms/f/floor.asp
-21. 
+21. Open Order - https://www.investopedia.com/terms/o/openorder.asp
+22. Media - https://www.investopedia.com/terms/m/median.asp
+23. 
