@@ -17,4 +17,6 @@
 15. Call Price - https://www.investopedia.com/terms/c/callprice.asp
 16. Collateral - https://www.investopedia.com/terms/c/collateral.asp
 17. Margin Call - https://www.investopedia.com/terms/m/margincall.asp
-18. 
+18. Stock - https://www.investopedia.com/terms/s/stock.asp
+19. Market - https://www.investopedia.com/terms/m/market.asp
+20. 
