@@ -15,4 +15,6 @@
 13. Understanding Order Execution - https://www.investopedia.com/articles/01/022801.asp
 14. Settlement Price - https://www.investopedia.com/terms/s/settlementprice.asp
 15. Call Price - https://www.investopedia.com/terms/c/callprice.asp
-16.
+16. Collateral - https://www.investopedia.com/terms/c/collateral.asp
+17. Margin Call - https://www.investopedia.com/terms/m/margincall.asp
+18. 
