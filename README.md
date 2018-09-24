@@ -100,6 +100,8 @@ ________________________________________________________________________________
 8. https://github.com/bitshares/bitshares-core/issues/1110
 ### Avoid calling `exit` from within a library
 
+9. https://github.com/bitshares/bitshares-core/issues/1338
+### Error Handling in C++ or: Why We Should Use Eithers in Favor of Exceptions and Error-codes
 ______________________________________________________________________________________________________________________
 
 # Discussions
