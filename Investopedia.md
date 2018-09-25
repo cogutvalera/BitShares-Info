@@ -23,4 +23,5 @@
 21. Open Order - https://www.investopedia.com/terms/o/openorder.asp
 22. Media - https://www.investopedia.com/terms/m/median.asp
 23. Limit Order - https://www.investopedia.com/terms/l/limitorder.asp
-24. 
+24. Buy Limit Order - https://www.investopedia.com/terms/b/buy-limit-order.asp
+25. 
