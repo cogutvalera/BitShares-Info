@@ -25,4 +25,6 @@
 23. Limit Order - https://www.investopedia.com/terms/l/limitorder.asp
 24. Buy Limit Order - https://www.investopedia.com/terms/b/buy-limit-order.asp
 25. Short Squeeze - https://www.investopedia.com/terms/s/shortsqueeze.asp
-26. 
+26. Short Position - https://www.investopedia.com/terms/s/short.asp
+27. Long Position - https://www.investopedia.com/terms/l/long.asp
+28. 
