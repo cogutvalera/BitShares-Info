@@ -27,4 +27,5 @@
 25. Short Squeeze - https://www.investopedia.com/terms/s/shortsqueeze.asp
 26. Short Position - https://www.investopedia.com/terms/s/short.asp
 27. Long Position - https://www.investopedia.com/terms/l/long.asp
-28. 
+28. https://www.investopedia.com/terms/t/tickersymbol.asp
+29. 
