@@ -27,5 +27,13 @@
 25. Short Squeeze - https://www.investopedia.com/terms/s/shortsqueeze.asp
 26. Short Position - https://www.investopedia.com/terms/s/short.asp
 27. Long Position - https://www.investopedia.com/terms/l/long.asp
-28. https://www.investopedia.com/terms/t/tickersymbol.asp
-29. 
+28. Ticker Symbol - https://www.investopedia.com/terms/t/tickersymbol.asp
+29. Exchange - https://www.investopedia.com/terms/e/exchange.asp
+30. Commodity - https://www.investopedia.com/terms/c/commodity.asp
+31. Derivative - https://www.investopedia.com/terms/d/derivative.asp
+32. Security - https://www.investopedia.com/terms/s/security.asp
+33. Fungibility - https://www.investopedia.com/terms/f/fungibility.asp
+34. Call Option - https://www.investopedia.com/terms/c/calloption.asp
+35. Financial Instrument - https://www.investopedia.com/terms/f/financialinstrument.asp
+36. Asset - https://www.investopedia.com/terms/a/asset.asp
+37. 
