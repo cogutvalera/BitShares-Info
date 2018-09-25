@@ -36,4 +36,28 @@
 34. Call Option - https://www.investopedia.com/terms/c/calloption.asp
 35. Financial Instrument - https://www.investopedia.com/terms/f/financialinstrument.asp
 36. Asset - https://www.investopedia.com/terms/a/asset.asp
-37. 
+37. Market Economy - https://www.investopedia.com/terms/m/marketeconomy.asp
+38. Economic Value - https://www.investopedia.com/terms/e/economic-value.asp
+39. Liquidity - https://www.investopedia.com/terms/l/liquidity.asp
+40. Liquid Asset - https://www.investopedia.com/terms/l/liquidasset.asp
+41. Shares - https://www.investopedia.com/terms/s/shares.asp
+42. Dividend - https://www.investopedia.com/terms/d/dividend.asp
+43. Auction - https://www.investopedia.com/terms/a/auction.asp
+44. Reverse Auction - https://www.investopedia.com/terms/r/reverse-auction.asp
+45. Bill Auction - https://www.investopedia.com/terms/b/bill-auction.asp
+46. Dutch Auction - https://www.investopedia.com/terms/d/dutchauction.asp
+47. Absolute Auction - https://www.investopedia.com/terms/a/absolute-auction.asp
+48. Dollar Auction - https://www.investopedia.com/terms/d/dollar-auction.asp
+49. Auction Market - https://www.investopedia.com/terms/a/auctionmarket.asp
+50. Auction Rate - https://www.investopedia.com/terms/a/auctionrate.asp
+51. Call Auction - https://www.investopedia.com/terms/c/call-auction.asp
+52. Mock Auction - https://www.investopedia.com/terms/m/mock-auction.asp
+53. All-Pay Auction - https://www.investopedia.com/terms/a/all-pay-auction.asp
+54. Auction Rate Security (ARS) - https://www.investopedia.com/terms/a/auction-rate-security.asp
+55. Sealed-Bid Auction - https://www.investopedia.com/terms/s/sealed-bid-auction.asp
+56. Lender Confirmation Auction - https://www.investopedia.com/terms/l/lender-confirmation-auction.asp
+57. Term Auction Facility (TAF) - https://www.investopedia.com/terms/t/term-auction-facility.asp
+58. Auction Rate Bond (ARB) - https://www.investopedia.com/terms/a/auction-rate-bond.asp
+59. Auction Market Preferred Stock (AMPS) - https://www.investopedia.com/terms/a/amps.asp
+60. 
+
