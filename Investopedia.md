@@ -22,4 +22,5 @@
 20. Floor - https://www.investopedia.com/terms/f/floor.asp
 21. Open Order - https://www.investopedia.com/terms/o/openorder.asp
 22. Media - https://www.investopedia.com/terms/m/median.asp
-23. 
+23. Limit Order - https://www.investopedia.com/terms/l/limitorder.asp
+24. 
