@@ -76,5 +76,7 @@
 74. https://www.investopedia.com/news/why-new-know-your-customer-project-crucial-blockchain/
 75. https://www.investopedia.com/ask/answers/06/putcallratio.asp
 76. https://www.investopedia.com/trading/forecasting-market-direction-with-put-call-ratios/
-77. 
+77. Depth of Market (DOM) - https://www.investopedia.com/terms/d/depth-of-market.asp
+78. Market Depth - https://www.investopedia.com/terms/m/marketdepth.asp
+79. 
 
