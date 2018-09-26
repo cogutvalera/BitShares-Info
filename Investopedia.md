@@ -87,6 +87,14 @@ ________________________________________________________________________________
 
 # Wiki
 
-1. https://ru.wikipedia.org/wiki/Биржевая_сделка
-2. 
-
+ 1. https://ru.wikipedia.org/wiki/Биржевая_сделка
+ 2. https://ru.wikipedia.org/wiki/Акция_(финансы)
+ 3. https://ru.wikipedia.org/wiki/Арбитраж_(экономика)
+ 4. https://ru.wikipedia.org/wiki/Биржа
+ 5. https://ru.wikipedia.org/wiki/Облигация
+ 6. https://ru.wikipedia.org/wiki/Опцион
+ 7. https://ru.wikipedia.org/wiki/Фьючерс
+ 8. https://ru.wikipedia.org/wiki/Биржевой_стакан
+ 9. https://ru.wikipedia.org/wiki/Котировка
+10. https://ru.wikipedia.org/wiki/
+11. 
