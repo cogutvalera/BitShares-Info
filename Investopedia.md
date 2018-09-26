@@ -59,5 +59,22 @@
 57. Term Auction Facility (TAF) - https://www.investopedia.com/terms/t/term-auction-facility.asp
 58. Auction Rate Bond (ARB) - https://www.investopedia.com/terms/a/auction-rate-bond.asp
 59. Auction Market Preferred Stock (AMPS) - https://www.investopedia.com/terms/a/amps.asp
-60. 
+60. Quote - https://www.investopedia.com/terms/q/quote.asp
+61. Quotation - https://www.investopedia.com/terms/q/quotation.asp
+62. Know Your Client (KYC) - https://www.investopedia.com/terms/k/knowyourclient.asp
+63. SelfKey (KEY) - https://www.investopedia.com/terms/s/selfkey-key.asp
+64. https://www.investopedia.com/news/why-new-know-your-customer-project-crucial-blockchain/
+65. Adjustable Peg - https://www.investopedia.com/terms/a/adjustable-peg.asp
+66. Currency Peg - https://www.investopedia.com/terms/c/currency-peg.asp
+67. Crawling Peg - https://www.investopedia.com/terms/c/crawlingpeg.asp
+68. Peg Ratio - https://www.investopedia.com/terms/p/pegratio.asp
+69. Peg Payback Perio - https://www.investopedia.com/terms/p/pegpaybackperiod.asp
+70. Pegging - https://www.investopedia.com/terms/p/pegging.asp
+71. Call Ratio Backspread - https://www.investopedia.com/terms/c/callratiobackspread.asp
+72. Put-Call Ratio - https://www.investopedia.com/terms/p/putcallratio.asp
+73. Ratio Call Write - https://www.investopedia.com/terms/r/ratio_call_write.asp
+74. https://www.investopedia.com/news/why-new-know-your-customer-project-crucial-blockchain/
+75. https://www.investopedia.com/ask/answers/06/putcallratio.asp
+76. https://www.investopedia.com/trading/forecasting-market-direction-with-put-call-ratios/
+77. 
 
