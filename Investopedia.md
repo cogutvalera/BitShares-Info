@@ -79,5 +79,6 @@
 77. Depth of Market (DOM) - https://www.investopedia.com/terms/d/depth-of-market.asp
 78. Market Depth - https://www.investopedia.com/terms/m/marketdepth.asp
 79. Market Order - https://www.investopedia.com/terms/m/marketorder.asp
-80. 
+80. Deep Market - https://www.investopedia.com/terms/d/deep-market.asp
+81. 
 
