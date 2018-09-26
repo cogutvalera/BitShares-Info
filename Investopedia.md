@@ -80,5 +80,6 @@
 78. Market Depth - https://www.investopedia.com/terms/m/marketdepth.asp
 79. Market Order - https://www.investopedia.com/terms/m/marketorder.asp
 80. Deep Market - https://www.investopedia.com/terms/d/deep-market.asp
-81. 
+81. Depth - https://www.investopedia.com/terms/d/depth.asp
+82. 
 
