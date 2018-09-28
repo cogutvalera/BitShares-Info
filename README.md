@@ -38,7 +38,7 @@ ________________________________________________________________________________
 ### CLI wallet: avoid directly overwriting wallet file on exit
 
 ______________________________________________________________________________________________________________________
-# My BitShares Core Issues (36-37 weeks progress)
+# My BitShares Core Issues (38-39 weeks progress)
 
 1. https://github.com/bitshares/bitshares-core/issues/780 / https://github.com/bitshares/bitshares-core/pull/1174 (5 hours estimation, review required)
 ### API documentation
