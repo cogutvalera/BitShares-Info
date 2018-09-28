@@ -70,8 +70,8 @@ ________________________________________________________________________________
 10. https://github.com/bitshares/bitshares-core/issues/985 / https://github.com/bitshares/bitshares-fc/pull/76 (2 hours estimation, approved)
 ### Log console output during replay to file
 
-11. https://github.com/bitshares/bitshares-core/pull/1232 
-(HAVE TO FIND ANOTHER SOLUTION to quit cli_wallet cleanly after CTRL-C was captured)
+11. https://github.com/bitshares/bitshares-core/issues/1193 / https://github.com/bitshares/bitshares-core/pull/1232 / https://github.com/bitshares/bitshares-fc/pull/77
+### Capture Ctrl+C in cli_wallet when not in daemon mode
 
 ______________________________________________________________________________________________________________________
 # My BitShares Core Issues
