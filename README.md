@@ -64,7 +64,7 @@ ________________________________________________________________________________
 8. https://github.com/bitshares/bitshares-core/issues/1289 / https://github.com/bitshares/bitshares-core/pull/1335 (2 hours estimation, approved)
 ### Change replay percentage to total block size processed
 
-9. https://github.com/bitshares/bitshares-core/issues/1269 (4 hours estimation)
+9. https://github.com/bitshares/bitshares-core/issues/1269 / https://github.com/bitshares/bitshares-core/pull/1352 (4 hours estimation)
 ### Change call_order_update_operation to return order_id
 
 10. https://github.com/bitshares/bitshares-core/issues/985 / https://github.com/bitshares/bitshares-fc/pull/76 (2 hours estimation, approved)
