@@ -102,6 +102,9 @@ ________________________________________________________________________________
 
 9. https://github.com/bitshares/bitshares-core/issues/1338
 ### Error Handling in C++ or: Why We Should Use Eithers in Favor of Exceptions and Error-codes
+
+10. https://github.com/bitshares/bitshares-core/issues/1354
+### Outdated or not correct code/comments/docs must be changed/improved/removed
 ______________________________________________________________________________________________________________________
 
 # Discussions
