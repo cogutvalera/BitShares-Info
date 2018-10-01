@@ -1,6 +1,5 @@
 # wscat -c wss://node.bitshares.eu
 
-## connected (press CTRL+C to quit)
 ### {"id":1, "method":"call", "params":[0,"get_dynamic_global_properties",[[]]]}
 #### {"id":1,"jsonrpc":"2.0","result":{"id":"2.1.0","head_block_number":30848407,"head_block_id":"01d6b597dd3d024b28e6c0e31f941f05e867d115","time":"2018-09-26T19:59:27","current_witness":"1.6.76","next_maintenance_time":"2018-09-26T20:00:00","last_budget_time":"2018-09-26T19:00:00","witness_budget":1400000,"accounts_registered_this_interval":21,"recently_missed_count":0,"current_aslot":31005910,"recent_slots_filled":"340282366920938463463374607431768211455","dynamic_flags":0,"last_irreversible_block_num":30848387}}
 ### {"id":1, "method":"call", "params":[0,"get_global_properties",[[]]]}
