@@ -3,13 +3,14 @@ https://help.github.com/articles/organizing-information-with-tables/
 | Status |
 | --- |
 | 1. Open |
-| 2. Developing |
-| 3. Testing |
-| 4. Reviewing |
-| 5. Approved |
-| 6. Merged |
-| 7. Closed |
-| 8. Compensated |
+| 2. Assigned |
+| 3. Developing |
+| 4. Testing |
+| 5. Reviewing |
+| 6. Approved |
+| 7. Merged |
+| 8. Closed |
+| 9. Compensated |
 
 | Number | Issue | Title | PR | Status | Estimation |
 | --- | --- | --- | --- | --- | --- |
@@ -30,6 +31,6 @@ https://help.github.com/articles/organizing-information-with-tables/
 | 15 | https://github.com/bitshares/bitshares-core/issues/1269 | Change call_order_update_operation to return order_id | https://github.com/bitshares/bitshares-core/pull/1352 | Closed | 2 hours |
 | 16 | https://github.com/bitshares/bitshares-core/issues/985 | Log console output during replay to file | https://github.com/bitshares/bitshares-core/pull/1355 / https://github.com/bitshares/bitshares-fc/pull/76 | Closed | 2 hours |
 | 17 | https://github.com/bitshares/bitshares-core/issues/1313 | About skip_fork_db flag | # | Open | X hours |
-| 18 | https://github.com/bitshares/bitshares-core/issues/1171 | Safer way to handle unlock command of cli_wallet | # | Open | X hours |
-| 19 | https://github.com/bitshares/bitshares-core/issues/1303 | cli_tests memory access violation at address: no mapping at fault address | # | Open | X hours |
-| 20 | https://github.com/bitshares/bitshares-core/issues/777 | Review subscription API | # | Open | X hours |
+| 18 | https://github.com/bitshares/bitshares-core/issues/1171 | Safer way to handle unlock command of cli_wallet | # | Assigned | X hours |
+| 19 | https://github.com/bitshares/bitshares-core/issues/1303 | cli_tests memory access violation at address: no mapping at fault address | # | Assigned | X hours |
+| 20 | https://github.com/bitshares/bitshares-core/issues/777 | Review subscription API | # | Assigned | X hours |
