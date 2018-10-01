@@ -67,7 +67,7 @@ ________________________________________________________________________________
 9. https://github.com/bitshares/bitshares-core/issues/1269 / https://github.com/bitshares/bitshares-core/pull/1352 (2 hours estimation)
 ### Change call_order_update_operation to return order_id
 
-10. https://github.com/bitshares/bitshares-core/issues/985 / https://github.com/bitshares/bitshares-fc/pull/76 (2 hours estimation, approved, closed, merged)
+10. https://github.com/bitshares/bitshares-core/issues/985 / https://github.com/bitshares/bitshares-core/pull/1355 / https://github.com/bitshares/bitshares-fc/pull/76 (2 hours estimation, approved, closed, merged)
 ### Log console output during replay to file
 
 11. https://github.com/bitshares/bitshares-core/issues/1193 / https://github.com/bitshares/bitshares-core/pull/1232 / https://github.com/bitshares/bitshares-fc/pull/77
