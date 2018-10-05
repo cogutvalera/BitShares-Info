@@ -35,3 +35,4 @@ https://help.github.com/articles/organizing-information-with-tables/
 | 19 | https://github.com/bitshares/bitshares-core/issues/1303 | cli_tests memory access violation at address: no mapping at fault address | ##### | Assigned | 10 hours |
 | 20 | https://github.com/bitshares/bitshares-core/issues/777 | Review subscription API | ##### | Assigned | X hours |
 | 21 | https://github.com/bitshares/bitshares-core/issues/1361 | Wallet API documentation | ##### | Open | X hours |
+| 22 | https://github.com/bitshares/bitshares-core/issues/950 | wallet.cpp file too big | ##### | Open | X hours |
