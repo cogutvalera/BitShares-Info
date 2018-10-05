@@ -34,3 +34,4 @@ https://help.github.com/articles/organizing-information-with-tables/
 | 18 | https://github.com/bitshares/bitshares-core/issues/1171 | Safer way to handle unlock command of cli_wallet | ##### | Assigned | 2 hours |
 | 19 | https://github.com/bitshares/bitshares-core/issues/1303 | cli_tests memory access violation at address: no mapping at fault address | ##### | Assigned | 10 hours |
 | 20 | https://github.com/bitshares/bitshares-core/issues/777 | Review subscription API | ##### | Assigned | X hours |
+| 21 | https://github.com/bitshares/bitshares-core/issues/1361 | Wallet API documentation | ##### | Open | X hours |
