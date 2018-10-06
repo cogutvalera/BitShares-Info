@@ -81,7 +81,9 @@
 79. Market Order - https://www.investopedia.com/terms/m/marketorder.asp
 80. Deep Market - https://www.investopedia.com/terms/d/deep-market.asp
 81. Depth - https://www.investopedia.com/terms/d/depth.asp
-82. 
+82. Fill - https://www.investopedia.com/terms/f/fill.asp
+83. Execution - https://www.investopedia.com/terms/e/execution.asp
+84. 
 
 _____________________________________________________________________________________________________________________
 
