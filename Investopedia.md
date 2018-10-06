@@ -83,7 +83,8 @@
 81. Depth - https://www.investopedia.com/terms/d/depth.asp
 82. Fill - https://www.investopedia.com/terms/f/fill.asp
 83. Execution - https://www.investopedia.com/terms/e/execution.asp
-84. 
+84. Bucket - https://www.investopedia.com/terms/b/bucket.asp
+85. 
 
 _____________________________________________________________________________________________________________________
 
