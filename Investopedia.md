@@ -99,5 +99,5 @@ ________________________________________________________________________________
  7. https://ru.wikipedia.org/wiki/Фьючерс
  8. https://ru.wikipedia.org/wiki/Биржевой_стакан
  9. https://ru.wikipedia.org/wiki/Котировка
-10. https://ru.wikipedia.org/wiki/
+10. https://ru.wikipedia.org/wiki/Технический_анализ
 11. 
