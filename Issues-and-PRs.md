@@ -3,14 +3,15 @@ https://help.github.com/articles/organizing-information-with-tables/
 | Status |
 | --- |
 | 1. Open |
-| 2. Assigned |
-| 3. Developing |
-| 4. Testing |
-| 5. Reviewing |
-| 6. Approved |
-| 7. Merged |
-| 8. Closed |
-| 9. Compensated |
+| 2. Claiming |
+| 3. Assigned |
+| 4. Developing |
+| 5. Testing |
+| 6. Reviewing |
+| 7. Approved |
+| 8. Merged |
+| 9. Closed |
+| 10. Compensated |
 
 | Number | Issue | Title | PR | Status | Estimation |
 | --- | --- | --- | --- | --- | --- |
@@ -34,5 +35,13 @@ https://help.github.com/articles/organizing-information-with-tables/
 | 18 | https://github.com/bitshares/bitshares-core/issues/1171 | Safer way to handle unlock command of cli_wallet | ##### | Assigned | 2 hours |
 | 19 | https://github.com/bitshares/bitshares-core/issues/1303 | cli_tests memory access violation at address: no mapping at fault address | ##### | Assigned | 10 hours |
 | 20 | https://github.com/bitshares/bitshares-core/issues/777 | Review subscription API | ##### | Assigned | X hours |
-| 21 | https://github.com/bitshares/bitshares-core/issues/1361 | Wallet API documentation | ##### | Open | X hours |
-| 22 | https://github.com/bitshares/bitshares-core/issues/950 | wallet.cpp file too big | ##### | Open | X hours |
+| 21 | https://github.com/bitshares/bitshares-core/issues/1361 | Wallet API documentation | ##### | Claiming | X hours |
+| 22 | https://github.com/bitshares/bitshares-core/issues/950 | wallet.cpp file too big | ##### | Claiming | X hours |
+| 23 | https://github.com/bitshares/bitshares-core/issues/783 | Review limitations on API's | ##### | Open | X hours |
+| 24 | https://github.com/bitshares/bitshares-core/issues/782 | Change hard-coded limitations in API's to configurable | ##### | Open | X hours |
+| 25 | https://github.com/bitshares/bitshares-core/issues/1069 | Update Documentation for `initial_chain_id` field when creating example genesis | ##### | Open | X hours |
+| 26 | https://github.com/bitshares/bitshares-core/issues/1068 | No need to serialize `initial_chain_id` field when creating example genesis json? | ##### | Open | X hours |
+| 27 | https://github.com/bitshares/bitshares-core/issues/1310 | Implement JSON-RPC batch | ##### | Open | X hours |
+| 28 | https://github.com/bitshares/bitshares-core/issues/1276 | Add virtual operations for referral program fee split | ##### | Open | X hours |
+| 29 | https://github.com/bitshares/bitshares-core/issues/1277 | Order fill events notified before order creation events | ##### | Open | X hours |
+
