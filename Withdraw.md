@@ -4,9 +4,9 @@ bts -> open.btc -> payeer (btc) -> payeer (usd) -> qiwi (usd) -> qiwi (rub) -> v
 
 1. bts (10 October 2018) [1 bts = 0.11$]
 2. open.btc // 0.0009 btc ~ 5.87$ (10 October 2018) [1 btc = 6,524$]
-3. payeer (btc)
-4. payeer (usd)
+3. payeer (btc) // получаю биткоины
+4. payeer (usd) // на бирже payeer меняю биткоины на доллары
 5. qiwi (usd) // получаю доллары и автоматом киви конвертирует их в рубли
-6. qiwi (rub) // 2% + 100 rubles
+6. qiwi (rub) // комиссия киви 2% + 100 rubles
 7. visa (rub) // виза получает рубли и автоматом конвертирует их в доллары/евро
-8. visa (usd/euro)
+8. visa (usd/euro) // 0.75% комиссия банка
