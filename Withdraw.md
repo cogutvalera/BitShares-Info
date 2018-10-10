@@ -13,6 +13,8 @@ bts -> open.btc -> payeer (btc) -> payeer (usd) -> qiwi (usd) -> qiwi (rub) -> v
 
 _________________________________________________________________________________________________________
 
+# References
+
 1. https://payeer.com/en/
 2. https://qiwi.com/
 
