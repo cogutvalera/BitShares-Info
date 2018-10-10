@@ -10,3 +10,6 @@ bts -> open.btc -> payeer (btc) -> payeer (usd) -> qiwi (usd) -> qiwi (rub) -> v
 6. qiwi (rub) // комиссия киви 2% + 100 rubles
 7. visa (rub) // виза получает рубли и автоматом конвертирует их в доллары/евро
 8. visa (usd/euro) // 0.75% комиссия банка
+
+1. https://payeer.com/en/
+2. https://qiwi.com/
