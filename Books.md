@@ -9,3 +9,5 @@ https://help.github.com/articles/organizing-information-with-tables/
 | 5 | Tanenbaum Networks |
 | 6 | Tanenbaum Operating Systems |
 | 7 | Unreal Engine C++ & BluePrints |
+| 8 | Python |
+| 9 | Java-Script |
