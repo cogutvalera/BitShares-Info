@@ -44,4 +44,5 @@ https://help.github.com/articles/organizing-information-with-tables/
 | 27 | https://github.com/bitshares/bitshares-core/issues/1310 | Implement JSON-RPC batch | ##### | Open | X hours |
 | 28 | https://github.com/bitshares/bitshares-core/issues/1276 | Add virtual operations for referral program fee split | ##### | Open | X hours |
 | 29 | https://github.com/bitshares/bitshares-core/issues/1277 | Order fill events notified before order creation events | ##### | Open | X hours |
+| 30 | https://github.com/bitshares/bitshares-core/issues/1366 | database_api::verify_account_authority is broken | ##### | Open | X hours |
 
