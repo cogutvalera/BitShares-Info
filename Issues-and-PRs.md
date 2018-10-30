@@ -32,7 +32,7 @@ https://help.github.com/articles/organizing-information-with-tables/
 | 15 | https://github.com/bitshares/bitshares-core/issues/1269 | Change call_order_update_operation to return order_id | https://github.com/bitshares/bitshares-core/pull/1352 | Compensated | 2 hours |
 | 16 | https://github.com/bitshares/bitshares-core/issues/985 | Log console output during replay to file | https://github.com/bitshares/bitshares-core/pull/1355 / https://github.com/bitshares/bitshares-fc/pull/76 | Compensated | 2 hours |
 | 17 | https://github.com/bitshares/bitshares-core/issues/1313 | About skip_fork_db flag | ##### | Open | X hours |
-| 18 | https://github.com/bitshares/bitshares-core/issues/1171 | Safer way to handle unlock command of cli_wallet | https://github.com/troglobit/editline/pull/21 / https://github.com/bitshares/bitshares-fc/pull/82 / https://github.com/bitshares/bitshares-core/pull/1382 | Reviewing | 15 hours |
+| 18 | https://github.com/bitshares/bitshares-core/issues/1171 | Safer way to handle unlock command of cli_wallet | https://github.com/troglobit/editline/pull/21 / https://github.com/bitshares/bitshares-fc/pull/82 / https://github.com/bitshares/bitshares-core/pull/1382 / https://github.com/bitshares/bitshares-fc/pull/86 | Reviewing | 15 hours |
 | 19 | https://github.com/bitshares/bitshares-core/issues/1303 | cli_tests memory access violation at address: no mapping at fault address | ##### | Assigned | 10 hours |
 | 20 | https://github.com/bitshares/bitshares-core/issues/777 | Review subscription API | ##### | Assigned | X hours |
 | 21 | https://github.com/bitshares/bitshares-core/issues/1361 | Wallet API documentation | ##### | Claiming | X hours |
