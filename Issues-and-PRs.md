@@ -36,7 +36,7 @@ https://help.github.com/articles/organizing-information-with-tables/
 | 19 | https://github.com/bitshares/bitshares-core/issues/1303 | cli_tests memory access violation at address: no mapping at fault address | ##### | Assigned | 10 hours |
 | 20 | https://github.com/bitshares/bitshares-core/issues/777 | Review subscription API | ##### | Assigned | X hours |
 | 21 | https://github.com/bitshares/bitshares-core/issues/1361 | Wallet API documentation | ##### | Assigned | X hours |
-| 22 | https://github.com/bitshares/bitshares-core/issues/950 | wallet.cpp file too big | ##### | Assigned | 15 hours |
+| 22 | https://github.com/bitshares/bitshares-core/issues/950 | wallet.cpp file too big | https://github.com/bitshares/bitshares-core/pull/1413 | Assigned | 15 hours |
 | 23 | https://github.com/bitshares/bitshares-core/issues/783 | Review limitations on API's | ##### | Open | X hours |
 | 24 | https://github.com/bitshares/bitshares-core/issues/782 | Change hard-coded limitations in API's to configurable | ##### | Open | X hours |
 | 25 | https://github.com/bitshares/bitshares-core/issues/1069 | Update Documentation for `initial_chain_id` field when creating example genesis | ##### | Open | X hours |
