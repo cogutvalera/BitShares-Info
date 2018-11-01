@@ -35,8 +35,8 @@ https://help.github.com/articles/organizing-information-with-tables/
 | 18 | https://github.com/bitshares/bitshares-core/issues/1171 | Safer way to handle unlock command of cli_wallet | https://github.com/troglobit/editline/pull/21 / https://github.com/bitshares/bitshares-fc/pull/82 / https://github.com/bitshares/bitshares-core/pull/1382 / https://github.com/bitshares/bitshares-fc/pull/86 | Compensated | 15 hours |
 | 19 | https://github.com/bitshares/bitshares-core/issues/1303 | cli_tests memory access violation at address: no mapping at fault address | ##### | Assigned | 10 hours |
 | 20 | https://github.com/bitshares/bitshares-core/issues/777 | Review subscription API | ##### | Assigned | X hours |
-| 21 | https://github.com/bitshares/bitshares-core/issues/1361 | Wallet API documentation | ##### | Claiming | X hours |
-| 22 | https://github.com/bitshares/bitshares-core/issues/950 | wallet.cpp file too big | ##### | Claiming | 15 hours |
+| 21 | https://github.com/bitshares/bitshares-core/issues/1361 | Wallet API documentation | ##### | Assigned | X hours |
+| 22 | https://github.com/bitshares/bitshares-core/issues/950 | wallet.cpp file too big | ##### | Assigned | 15 hours |
 | 23 | https://github.com/bitshares/bitshares-core/issues/783 | Review limitations on API's | ##### | Open | X hours |
 | 24 | https://github.com/bitshares/bitshares-core/issues/782 | Change hard-coded limitations in API's to configurable | ##### | Open | X hours |
 | 25 | https://github.com/bitshares/bitshares-core/issues/1069 | Update Documentation for `initial_chain_id` field when creating example genesis | ##### | Open | X hours |
@@ -47,4 +47,5 @@ https://help.github.com/articles/organizing-information-with-tables/
 | 30 | https://github.com/bitshares/bitshares-core/issues/1366 | database_api::verify_account_authority is broken | ##### | Open | X hours |
 | 31 | https://github.com/bitshares/bitshares-core/issues/1403 | Fund account on account creation | ##### | Open | X hours |
 | 32 | https://github.com/bitshares/bitshares-core/issues/1412 | Ability to use cli_wallet built from master or develop at the public testnet. | ##### | Claiming | X hours |
+| 33 | https://github.com/bitshares/bitshares-core/issues/1171 | Safer way to handle unlock command of cli_wallet (WINDOWS) | ##### | Assigned | X hours |
 
