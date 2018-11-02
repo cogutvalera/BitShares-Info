@@ -45,7 +45,7 @@ https://help.github.com/articles/organizing-information-with-tables/
 | 28 | https://github.com/bitshares/bitshares-core/issues/1276 | Add virtual operations for referral program fee split | ##### | Open | X hours |
 | 29 | https://github.com/bitshares/bitshares-core/issues/1277 | Order fill events notified before order creation events | ##### | Open | X hours |
 | 30 | https://github.com/bitshares/bitshares-core/issues/1366 | database_api::verify_account_authority is broken | ##### | Open | X hours |
-| 31 | https://github.com/bitshares/bitshares-core/issues/1403 | Fund account on account creation | ##### | Open | X hours |
+| 31 | https://github.com/bitshares/bitshares-core/issues/1403 | Fund account on account creation | ##### | Assigned | X hours |
 | 32 | https://github.com/bitshares/bitshares-core/issues/1412 | Ability to use cli_wallet built from master or develop at the public testnet. | ##### | Claiming | X hours |
 | 33 | https://github.com/bitshares/bitshares-core/issues/1171 | Safer way to handle unlock command of cli_wallet (WINDOWS) | ##### | Assigned | X hours |
 
