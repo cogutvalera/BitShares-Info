@@ -48,4 +48,7 @@ https://help.github.com/articles/organizing-information-with-tables/
 | 31 | https://github.com/bitshares/bitshares-core/issues/1403 | Fund account on account creation | ##### | Assigned | X hours |
 | 32 | https://github.com/bitshares/bitshares-core/issues/1412 | Ability to use cli_wallet built from master or develop at the public testnet. | ##### | Claiming | X hours |
 | 33 | https://github.com/bitshares/bitshares-core/issues/1171 | Safer way to handle unlock command of cli_wallet (WINDOWS) | ##### | Assigned | X hours |
+| 34 | https://github.com/bitshares/bitshares-core/issues/1432 | Refactor wallet library to be modular with non-dependent classes (also reduce compilation time & memory) | ##### | Claiming | X hours |
+
+
 
